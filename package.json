@@ -1,0 +1,17 @@
+{
+  "name": "apikey-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "apikeygen": "^1.1.0",
+    "express": "^4.16.3",
+    "helmet": "^3.12.1"
+  }
+}
